@@ -5,7 +5,7 @@ function Carousel({ children }) {
 
     const settings = {
         dots: false,
-        infinite: false, // true
+        infinite: true,
         speed: 300,
         centerMode: false,
         variableWidth: true,

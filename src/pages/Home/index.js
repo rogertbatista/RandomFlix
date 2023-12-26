@@ -13,7 +13,7 @@ function Home() {
     <>
       <ScrollToTopButton />
       <Header />
-      <Banner image="favoritos" />
+      <Banner image="home" />
       <Container>
 
         {categories.map((category, index) =>
